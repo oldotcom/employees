@@ -21,7 +21,7 @@ const EmployeesListItem = (props) => {
             <div className='d-flex justify-content-center align-items-center'>
                 <button type="button"
                     className="btn-cookie btn-sm"
-                    onClick={onToggleProp} 
+                    onClick={onToggleProp}
                     data-toggle="increase">
                     <i className="fas fa-cookie"></i>
                 </button>
